@@ -5,23 +5,25 @@
 - [x] Definir arquitetura gratuita inicial do portal.
 - [x] Definir contrato inicial do catálogo público.
 - [x] Definir schema do inventário mestre.
-- [ ] Criar Cofre Mestre lógico para originais e hashes.
+- [x] Criar Cofre Mestre lógico para originais e hashes.
+- [x] Definir arquitetura do publishing panel.
+- [x] Criar template seguro do inventário.
 - [ ] Criar inventário real das obras, registros, direitos e materiais recebidos.
-- [ ] Definir arquitetura do publishing panel.
 - [ ] Definir identidade digital oficial e canais disponíveis sem custo inicial.
 
 ## P1 — Casa digital MVP
 - [x] Criar primeira versão funcional do portal em `apps/web`.
 - [x] Criar catálogo vazio por padrão, sem inventar conteúdo artístico.
+- [x] Criar scaffold inicial do Publishing Panel em `apps/publishing`.
 - [ ] Validar direção visual com Brigitte.
 - [ ] Conectar catálogo aprovado.
+- [ ] Evoluir Publishing Panel com dados privados e autenticação antes de uso real.
 - [ ] Biblioteca/loja própria preparada para produtos digitais.
-- [ ] Painel BRI TSUN Publishing.
 - [ ] Newsletter/CRM em camada gratuita.
 - [ ] Analytics gratuito e respeitoso da privacidade.
 
 ## P2 — Publicação e distribuição
-- [ ] Workflow: original → preservação → metadados → aprovação → publicação.
+- [ ] Implementar workflow: original → preservação → metadados → aprovação → publicação.
 - [ ] Mapear Amazon, Hotmart e outros canais relevantes.
 - [ ] Registrar integrações por API quando oficialmente disponíveis.
 - [ ] Criar fluxo manual seguro quando API não existir.
