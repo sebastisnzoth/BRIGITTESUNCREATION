@@ -12,12 +12,13 @@
     <section class="hero"><h2>Centro operacional</h2><p>Preparação, controle e rastreabilidade. Nenhuma obra é publicada automaticamente.</p></section>
     <section class="stats">
       <article><strong id="works">0</strong><span>Obras registradas</span></article>
-      <article><strong>0</strong><span>Aguardando aprovação</span></article>
-      <article><strong>0</strong><span>Prontas para release</span></article>
+      <article><strong id="review">0</strong><span>Aguardando revisão</span></article>
+      <article><strong id="release">0</strong><span>Prontas para release</span></article>
     </section>
     <section class="panel"><div class="panel-head"><h2>Fila editorial</h2><button type="button" disabled>Adicionar obra</button></div><div class="empty"><strong>Nenhum material real carregado.</strong><p>O inventário será preenchido somente quando os materiais forem recebidos e autorizados.</p></div></section>
-    <section class="workflow"><span>DRAFT</span><b>→</b><span>REVIEW</span><b>→</b><span>APPROVED</span><b>→</b><span>RELEASE</span></section>
+    <section class="workflow" aria-label="Fluxo editorial"><span>RECEIVED</span><b>→</b><span>INTEGRITY</span><b>→</b><span>METADATA</span><b>→</b><span>REVIEW</span><b>→</b><span>APPROVED</span><b>→</b><span>RELEASE</span></section>
   </main>
   <footer>A tecnologia serve à obra. A obra não serve à tecnologia.</footer>
+  <script src="app.js" defer></script>
 </body>
 </html>
