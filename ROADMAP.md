@@ -1,4 +1,4 @@
-# ROADMAP — BRIGITTE SUN CREATION
+# ROADMAP — BRI TSUN
 
 ## P0 — Fundação zero custo
 - [ ] Definir repositório oficial e estrutura documental.
@@ -11,7 +11,7 @@
 - [ ] Portal oficial.
 - [ ] Catálogo das obras.
 - [ ] Biblioteca/loja própria preparada para produtos digitais.
-- [ ] Painel BRIGITTE SUN CREATION Publishing.
+- [ ] Painel BRI TSUN Publishing.
 - [ ] Newsletter/CRM em camada gratuita.
 - [ ] Analytics gratuito e respeitoso da privacidade.
 
