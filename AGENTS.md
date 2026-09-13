@@ -1,4 +1,4 @@
-# AGENTS.md — BRIGITTE SUN CREATION
+# AGENTS.md — BRI TSUN
 
 Leia `BRIGITTE.md` antes de qualquer ação.
 
