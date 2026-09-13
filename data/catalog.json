@@ -1,0 +1,10 @@
+{
+  "brand": "BRI TSUN",
+  "status": "foundation",
+  "works": [],
+  "rules": {
+    "publishOnlyApprovedMaterial": true,
+    "originalsNeverPublic": true,
+    "artisticDecisionOwner": "Brigitte"
+  }
+}
