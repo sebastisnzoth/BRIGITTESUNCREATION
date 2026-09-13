@@ -17,6 +17,7 @@
 - [x] Criar catálogo vazio por padrão, sem inventar conteúdo artístico.
 - [x] Criar scaffold inicial do Publishing Panel em `apps/publishing`.
 - [x] Conectar Publishing Panel a dados estruturais seguros sem obras reais.
+- [x] Criar checklist QA do MVP.
 - [ ] Validar direção visual com Brigitte.
 - [ ] Conectar catálogo aprovado.
 - [ ] Evoluir Publishing Panel com dados privados e autenticação antes de uso real.
@@ -26,7 +27,9 @@
 
 ## P2 — Publicação e distribuição
 - [x] Definir workflow: original → preservação → metadados → revisão → aprovação → publicação.
-- [ ] Implementar máquina de estados do workflow no painel.
+- [x] Implementar fundação da máquina de estados do workflow no painel.
+- [x] Bloquear `APPROVED` sem aprovação humana e `RELEASED` sem autorização de release no contrato do frontend.
+- [ ] Persistir e auditar transições em backend privado antes do uso real.
 - [ ] Mapear Amazon, Hotmart e outros canais relevantes.
 - [ ] Registrar integrações por API quando oficialmente disponíveis.
 - [ ] Criar fluxo manual seguro quando API não existir.
