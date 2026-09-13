@@ -1,13 +1,13 @@
 # HANDOFF — BRI TSUN
 
 ## NEXT
-- Criar inventário inicial das obras e ativos recebidos.
-- Escolher stack 100% gratuita para o MVP.
-- Desenhar arquitetura do portal + publishing panel + arquivo mestre.
-- Iniciar design system e arquitetura da Casa Digital BRI TSUN.
+- Criar Cofre Mestre lógico para originais e hashes.
+- Definir arquitetura do publishing panel.
+- Criar inventário real das obras e ativos recebidos.
+- Validar visual do portal antes de qualquer publicação pública.
 
 ## IN PROGRESS
-- Sistema mestre de agentes e regras.
+- Casa Digital BRI TSUN MVP.
 
 ## IMPLEMENTED
 - `BRIGITTE.md`
@@ -23,6 +23,10 @@
 - BRI DevOps.
 - BRI Security & Privacy.
 - BRI UX.
+- `docs/ARCHITECTURE.md`.
+- `docs/INVENTORY_SCHEMA.md`.
+- `data/catalog.json`.
+- Primeira versão funcional da Casa Digital em `apps/web`.
 
 ## VALIDATED
 - Nome oficial do projeto: BRI TSUN.
@@ -30,9 +34,10 @@
 - Regra de inviolabilidade da obra.
 - Brigitte mantém decisão final.
 - Plataformas externas são canais, não o centro.
+- Portal inicial não publica obras sem aprovação.
 
 ## RELEASED
-- Nenhum produto em produção ainda.
+- Nenhum produto foi publicado em produção ainda.
 
 ## BLOCKED
-- Skill separada de SEO não criada pelo conector nesta rodada; SEO técnico pode ser incorporado posteriormente sem bloquear o MVP.
+- Conteúdo real do catálogo depende do material recebido e da autorização de Brigitte.
