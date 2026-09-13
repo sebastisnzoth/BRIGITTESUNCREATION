@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "mode": "STRUCTURE_ONLY",
+  "works": [],
+  "counts": {
+    "total": 0,
+    "ready_for_review": 0,
+    "approved": 0,
+    "ready_to_release": 0
+  },
+  "notice": "Sem obras reais. Dados reais protegidos exigem armazenamento privado e autorização aplicável."
+}
