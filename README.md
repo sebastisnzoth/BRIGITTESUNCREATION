@@ -1,6 +1,6 @@
-# BRIGITTE SUN CREATION
+# BRI TSUN
 
-Infraestrutura digital de custo inicial zero para preservar, publicar, distribuir e promover o Universo BRIGITTE SUN CREATION.
+Infraestrutura digital de custo inicial zero para preservar, publicar, distribuir e promover o Universo BRI TSUN.
 
 > A tecnologia serve à obra. A obra não serve à tecnologia.
 
