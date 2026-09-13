@@ -8,13 +8,15 @@
 - [x] Criar Cofre Mestre lógico para originais e hashes.
 - [x] Definir arquitetura do publishing panel.
 - [x] Criar template seguro do inventário.
+- [x] Definir fundação da identidade digital e papel dos canais.
 - [ ] Criar inventário real das obras, registros, direitos e materiais recebidos.
-- [ ] Definir identidade digital oficial e canais disponíveis sem custo inicial.
+- [ ] Validar ativos oficiais, domínio e canais com Brigitte.
 
 ## P1 — Casa digital MVP
 - [x] Criar primeira versão funcional do portal em `apps/web`.
 - [x] Criar catálogo vazio por padrão, sem inventar conteúdo artístico.
 - [x] Criar scaffold inicial do Publishing Panel em `apps/publishing`.
+- [x] Conectar Publishing Panel a dados estruturais seguros sem obras reais.
 - [ ] Validar direção visual com Brigitte.
 - [ ] Conectar catálogo aprovado.
 - [ ] Evoluir Publishing Panel com dados privados e autenticação antes de uso real.
@@ -23,7 +25,8 @@
 - [ ] Analytics gratuito e respeitoso da privacidade.
 
 ## P2 — Publicação e distribuição
-- [ ] Implementar workflow: original → preservação → metadados → aprovação → publicação.
+- [x] Definir workflow: original → preservação → metadados → revisão → aprovação → publicação.
+- [ ] Implementar máquina de estados do workflow no painel.
 - [ ] Mapear Amazon, Hotmart e outros canais relevantes.
 - [ ] Registrar integrações por API quando oficialmente disponíveis.
 - [ ] Criar fluxo manual seguro quando API não existir.
