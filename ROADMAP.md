@@ -1,15 +1,20 @@
 # ROADMAP — BRI TSUN
 
 ## P0 — Fundação zero custo
-- [ ] Definir repositório oficial e estrutura documental.
+- [x] Definir repositório oficial e estrutura documental.
+- [x] Definir arquitetura gratuita inicial do portal.
+- [x] Definir contrato inicial do catálogo público.
+- [x] Definir schema do inventário mestre.
 - [ ] Criar Cofre Mestre lógico para originais e hashes.
-- [ ] Definir arquitetura gratuita do portal e painel.
-- [ ] Criar inventário de obras, registros, direitos e materiais.
-- [ ] Definir identidade digital oficial e domínios/canais disponíveis sem custo inicial.
+- [ ] Criar inventário real das obras, registros, direitos e materiais recebidos.
+- [ ] Definir arquitetura do publishing panel.
+- [ ] Definir identidade digital oficial e canais disponíveis sem custo inicial.
 
 ## P1 — Casa digital MVP
-- [ ] Portal oficial.
-- [ ] Catálogo das obras.
+- [x] Criar primeira versão funcional do portal em `apps/web`.
+- [x] Criar catálogo vazio por padrão, sem inventar conteúdo artístico.
+- [ ] Validar direção visual com Brigitte.
+- [ ] Conectar catálogo aprovado.
 - [ ] Biblioteca/loja própria preparada para produtos digitais.
 - [ ] Painel BRI TSUN Publishing.
 - [ ] Newsletter/CRM em camada gratuita.
