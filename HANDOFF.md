@@ -1,43 +1,39 @@
 # HANDOFF — BRI TSUN
 
 ## NEXT
-- Criar Cofre Mestre lógico para originais e hashes.
-- Definir arquitetura do publishing panel.
-- Criar inventário real das obras e ativos recebidos.
-- Validar visual do portal antes de qualquer publicação pública.
+- Definir identidade digital oficial e canais gratuitos.
+- Preparar o workflow técnico de aprovação e release.
+- Evoluir o Publishing Panel sem inserir dados reais protegidos.
+- Validar visual do portal e do painel antes de publicação pública.
 
 ## IN PROGRESS
 - Casa Digital BRI TSUN MVP.
+- Publishing Panel MVP.
 
 ## IMPLEMENTED
-- `BRIGITTE.md`
-- `AGENTS.md`
-- Skills iniciais da equipe digital.
-- Atualização da identidade do projeto para BRI TSUN.
-- BRI Design.
-- BRI Software Architect.
-- BRI Web.
-- BRI Frontend.
-- BRI Backend.
-- BRI QA.
-- BRI DevOps.
-- BRI Security & Privacy.
-- BRI UX.
+- Sistema mestre de regras e Skills.
 - `docs/ARCHITECTURE.md`.
 - `docs/INVENTORY_SCHEMA.md`.
+- `docs/MASTER_VAULT.md`.
+- `docs/PUBLISHING_PANEL.md`.
 - `data/catalog.json`.
-- Primeira versão funcional da Casa Digital em `apps/web`.
+- `data/inventory.template.json`.
+- Casa Digital em `apps/web`.
+- Scaffold do Publishing Panel em `apps/publishing`.
 
 ## VALIDATED
 - Nome oficial do projeto: BRI TSUN.
-- Regra de custo inicial zero.
-- Regra de inviolabilidade da obra.
+- Custo inicial zero.
+- Obra original inviolável.
 - Brigitte mantém decisão final.
 - Plataformas externas são canais, não o centro.
-- Portal inicial não publica obras sem aprovação.
+- Site público não recebe obras sem aprovação.
+- Originais não devem ser commitados no repositório público.
 
 ## RELEASED
 - Nenhum produto foi publicado em produção ainda.
 
 ## BLOCKED
-- Conteúdo real do catálogo depende do material recebido e da autorização de Brigitte.
+- Inventário real depende do material recebido.
+- Conteúdo público real depende de autorização de Brigitte.
+- Release público depende de validação visual e autorização aplicável.
