@@ -1,4 +1,4 @@
-# HANDOFF — BRIGITTE SUN CREATION
+# HANDOFF — BRI TSUN
 
 ## NEXT
 - Criar inventário inicial das obras e ativos recebidos.
@@ -12,9 +12,10 @@
 - `BRIGITTE.md`
 - `AGENTS.md`
 - Skills iniciais da equipe digital.
+- Atualização da identidade do projeto para BRI TSUN.
 
 ## VALIDATED
-- Nome oficial: BRIGITTE SUN CREATION.
+- Nome oficial do projeto: BRI TSUN.
 - Regra de custo inicial zero.
 - Regra de inviolabilidade da obra.
 - Brigitte mantém decisão final.
