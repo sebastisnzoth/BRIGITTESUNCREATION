@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "notice": "Template estrutural. Nao inserir texto integral das obras nem credenciais neste arquivo publico.",
+  "works": [
+    {
+      "id": "WORK-001",
+      "title": "",
+      "type": "book",
+      "language": "pt-BR",
+      "status": "received",
+      "publication_authorized": false,
+      "rights": {
+        "registration_status": "unknown",
+        "documents_verified": false
+      },
+      "assets": [
+        {
+          "asset_id": "ASSET-001",
+          "filename_original": "",
+          "sha256": "",
+          "received_at": "",
+          "source": "",
+          "storage_reference": "PRIVATE-NOT-IN-REPO"
+        }
+      ]
+    }
+  ]
+}
